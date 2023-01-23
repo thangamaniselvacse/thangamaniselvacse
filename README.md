@@ -1,4 +1,4 @@
-### Hi there 👋 I’m a Machine Learning Engineer
+### Hi there 👋 I’m Thangamani, Machine Learning Engineer as professional, a passionate software engineer from India. 
 
 <!--
 **thangamaniselvacse/thangamaniselvacse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
